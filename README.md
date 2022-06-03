@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Redux, node.js, express.js, aws**
 
-- 👨‍💻 Some of my projects are available at [https://www.behance.net/minamerzeq/projects](https://www.behance.net/minamerzeq/projects)
+- 👨‍💻 Some of my projects are available at [https://www.behance.net/mina-merzeq](https://www.behance.net/mina-merzeq)
 
 - 💬 Ask me about **react, asp.net, SQL database, Rest Apis, tailwind, WPF applications**
 

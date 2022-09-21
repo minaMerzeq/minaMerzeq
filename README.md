@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minamerzeq&label=Profile%20views&color=0e75b6&style=flat" alt="minamerzeq" /> </p>
 
-- 🔭 I’m currently working on [Sketshare](https://www.sketshare.com/)
+- 🔭 I’m currently working on [Floward](https://floward.com/en-kw)
 
-- 🌱 I’m currently learning **React, Redux, node.js, express.js, aws**
+- 🌱 I’m currently learning **React, firebase, dotnetcore**
 
 - 👨‍💻 Some of my projects are available at [https://www.behance.net/mina-merzeq](https://www.behance.net/mina-merzeq)
 

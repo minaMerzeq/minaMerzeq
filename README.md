@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minamerzeq&label=Profile%20views&color=0e75b6&style=flat" alt="minamerzeq" /> </p>
 
-- 🔭 I’m currently working on [Floward](https://floward.com/en-kw)
+- 🔭 I’m currently working on [The General Syndicate of Cars - NaqabaSA](https://linktr.ee/NaqabaSA)
 
 - 🌱 I’m currently learning **React, firebase, dotnetcore**
 
-- 👨‍💻 Some of my projects are available at [https://www.behance.net/mina-merzeq](https://www.behance.net/mina-merzeq)
+- 👨‍💻 Some of my projects are available at [Behance](https://www.behance.net/mina-merzeq)
 
 - 💬 Ask me about **react, asp.net, SQL database, Rest Apis, tailwind, WPF applications**
 
-- 📫 How to reach me **minadatabase@gmail.com**
+- 📫 How to reach me **mina.merzeq.shafiq@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sKbCjADI1Y6W0NbBOo1OHPlytO-5TcmW/view?usp=sharing](https://drive.google.com/file/d/1sKbCjADI1Y6W0NbBOo1OHPlytO-5TcmW/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Qn8Ft1OIyMgl2qw5JTi7mY2FIlNXaBxH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
